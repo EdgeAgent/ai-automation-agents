@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">AI Automation Agents</title>
+  <desc id="desc">From starter kit to working agents — twelve production-pattern recipes with routing, memory, pipelines, and approval gates.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060A14"/>
+      <stop offset="1" stop-color="#111B36"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset=".5" stop-color="#58B9FF"/>
+      <stop offset="1" stop-color="#E8B84B"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="300" fill="url(#bg)"/>
+  <rect x="60" y="196" width="1080" height="4" rx="2" fill="url(#rule)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="118" font-size="64" font-weight="bold" fill="#EAF6FF">AI Automation <tspan fill="#E8B84B">Agents</tspan></text>
+    <text x="60" y="168" font-size="30" fill="#2DD4BF">From starter kit to working agents</text>
+    <text x="60" y="248" font-size="24" fill="#9FB3C8">12 recipes · routing · memory · pipelines · approval gates — tested with fakes</text>
+    <text x="1140" y="70" font-size="22" fill="#9FB3C8" text-anchor="end">STEP 2 · EDGE AGENCY</text>
+  </g>
+</svg>
