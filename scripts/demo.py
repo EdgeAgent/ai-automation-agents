@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Standalone end-to-end demo for AI Automation Agents.
 
 Runs the headline recipes and both reference pipelines entirely on fake
