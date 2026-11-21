@@ -1,0 +1,5 @@
+name,email,phone,company,source,grade,flags
+Dana White,dana@northwind.example,(313) 555-0142,Northwind Traders,web form,A,
+Marcus Lee,marcus@leeproperties.example,313-555-0199,Lee Properties,referral,A,
+Pat Nope,not-an-email,123,Unknown,import,C,invalid_email;invalid_phone
+Sam Ortiz,sam@ortiz.example,,Ortiz Group,web form,B,missing_phone
